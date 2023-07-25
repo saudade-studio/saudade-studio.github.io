@@ -1,5 +1,5 @@
-title: Urban Template
-url: "https://teal-worm.cloudvent.net"
+title: Saudade Studio
+url: "https://saudade-studio.github.io/website/"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -85,17 +85,3 @@ defaults:
       type: "pages"
     values:
       layout: "default"
-
-# -----------
-# CloudCannon
-
-_select_data:
-  social_icons:
-    - Facebook
-    - Instagram
-    - LinkedIn
-    - Pinterest
-    - Tumblr
-    - Twitter
-    - YouTube
-    - RSS
