@@ -19,13 +19,13 @@ title: Home
 	<div class="container">
 	    <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_clients/" class="btn"><strong>&#9998;</strong> Manage Clients</a></p>
 		<ul class="image-grid">
-			{% for client in site.clients %}
+			{% for item in site.portfolio %}
 				<li>
-					<a href="{{ site.baseurl }}{{ client.url }}">
-						<img src="{% include relative-src.html src=client.image_path %}" alt="{{ person.name }}">
+					<a href="{{ site.baseurl }}{{ item.url }}">
+						<img src="{% include relative-src.html src=item.image_path %}" alt="{{ person.name }}">
 						<div class="details">
-							<div class="name">{{ client.name }}</div>
-							<div class="position">{{ client.subtitle }}</div>
+							<div class="name">{{ item.name }}</div>
+							<div class="position">{{ item.subtitle }}</div>
 						</div>
 					</a>
 				</li>

@@ -23,7 +23,7 @@ social:
 timezone: Etc/UTC
 
 collections:
-  staff_members:
+  portfolio:
     output: false
   clients:
     output: true
@@ -60,7 +60,7 @@ defaults:
           height: 2000
   - scope:
       path: ""
-      type: "clients"
+      type: "portfolio"
     values:
       layout: "client"
       _options:
