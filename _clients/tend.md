@@ -1,14 +1,14 @@
 ---
-name: Justice Template
-subtitle: Law firm themed business template for Jekyll
-external_url: https://github.com/CloudCannon/justice-jekyll-template
-image_path: /images/clients/justice.jpg
+name: Tend
+subtitle: Product marketing template for Jekyll
+external_url: https://github.com/CloudCannon/hydra-jekyll-template
+image_path: /images/clients/hydra.png
 ---
 
-Law firm themed business template for Jekyll. Browse through a [live demo](https://grey-grouse.cloudvent.net/).
-Increase the web presence of a law firm or business with this configurable theme.
+Marketing site template for Jekyll. Browse through a [live demo](https://proud-alligator.cloudvent.net/).
+Increase the web presence of your brand with this configurable theme.
 
-Justice was made by [CloudCannon](https://cloudcannon.com/), the Cloud CMS for Jekyll.
+Hydra was made by [CloudCannon](https://cloudcannon.com/), the Cloud CMS for Jekyll.
 
 Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
 
@@ -35,7 +35,7 @@ Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Ac
 
 ## Develop
 
-Justice was built with [Jekyll](https://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
+Hydra was built with [Jekyll](https://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
 
 Install the dependencies with [Bundler](https://bundler.io/):
 
@@ -51,7 +51,7 @@ $ bundle exec jekyll serve
 
 ## Editing
 
-Justice is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in [CloudCannon](https://app.cloudcannon.com/).
+Hydra is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in CloudCannon.
 
 ### Posts
 
@@ -62,7 +62,7 @@ Justice is already optimised for adding, updating and removing pages, staff, adv
 
 ### Contact Form
 
-* Preconfigured to work with [CloudCannon](https://app.cloudcannon.com/), but easily changed to another provider (e.g. [FormSpree](https://formspree.io/)).
+* Preconfigured to work with CloudCannon, but easily changed to another provider (e.g. [FormSpree](https://formspree.io/)).
 * Sends email to the address listed in company details.
 
 ### Staff
@@ -70,12 +70,12 @@ Justice is already optimised for adding, updating and removing pages, staff, adv
 * Reused around the site to save multiple editing locations.
 * Add `excluded_in_search: true` to any documentation page's front matter to exclude that page in the search results.
 
+### Navigation
+
+* Exposed as a data file to give clients better access.
+* Set in the *Data* / *Navigation* section.
+
 ### Footer
 
 * Exposed as a data file to give clients better access.
 * Set in the *Data* / *Footer* section.
-
-### Company details
-
-* Reused around the site to save multiple editing locations.
-* Set in the *Data* / *Company* section.

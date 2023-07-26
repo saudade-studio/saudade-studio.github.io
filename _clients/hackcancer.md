@@ -1,5 +1,5 @@
 ---
-name: Cause Template
+name: Hackcancer
 subtitle: Not for profit template for Jekyll
 external_url: https://github.com/CloudCannon/cause-jekyll-template
 image_path: /images/clients/cause.jpg
