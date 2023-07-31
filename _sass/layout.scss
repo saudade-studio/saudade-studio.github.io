@@ -76,7 +76,7 @@ section {
 
 	&.hero {
 		color: #ffffff;
-		background: $brand-color;
+		background: darken($color: $brand-color, $amount: 10);
 		text-align: left;
 		margin-top: -100px;
 		padding-top: 250px;
