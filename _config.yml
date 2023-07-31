@@ -24,8 +24,6 @@ timezone: Etc/UTC
 
 collections:
   portfolio:
-    output: false
-  clients:
     output: true
 
 paginate: 10
