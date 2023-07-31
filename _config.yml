@@ -47,15 +47,6 @@ exclude:
 defaults:
   - scope:
       path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      _options:
-        content:
-          width: 960
-          height: 2000
-  - scope:
-      path: ""
       type: "portfolio"
     values:
       layout: "portfolio"
@@ -63,14 +54,6 @@ defaults:
         image_path:
           width: 2000
           height: 2000
-  - scope:
-      path: ""
-      type: "staff_members"
-    values:
-      _options:
-        image_path:
-          width: 600
-          height: 600
   - scope:
       path: ""
       type: "pages"
