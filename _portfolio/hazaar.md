@@ -3,6 +3,7 @@ name: Hazaar
 subtitle: App marketing template for Jekyll
 external_url: https://github.com/CloudCannon/frisco-jekyll-template
 image_path: /images/clients/frisco.jpg
+published: false
 ---
 
 App promotion themed template for Jekyll. Browse through a [live demo](https://brave-submarine.cloudvent.net/).

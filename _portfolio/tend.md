@@ -3,7 +3,7 @@ name: Tend
 subtitle: Product marketing template for Jekyll
 external_url: https://github.com/CloudCannon/hydra-jekyll-template
 image_path: /images/clients/hydra.png
-
+published: false
 ---
 
 Marketing site template for Jekyll. Browse through a [live demo](https://proud-alligator.cloudvent.net/).

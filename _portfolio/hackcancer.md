@@ -3,6 +3,7 @@ name: Hackcancer
 subtitle: Not for profit template for Jekyll
 external_url: https://github.com/CloudCannon/cause-jekyll-template
 image_path: /images/clients/cause.jpg
+published: false
 ---
 
 Not for profit themed template for Jekyll. Browse through a [live demo](https://clean-oryx.cloudvent.net/).

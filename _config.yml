@@ -23,7 +23,6 @@ timezone: Etc/UTC
 
 collections:
   portfolio:
-    sort_by: date
     output: true
 
 permalink: pretty

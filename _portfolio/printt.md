@@ -3,6 +3,7 @@ name: Printt
 subtitle: Product documentation template for Jekyll
 external_url: https://github.com/CloudCannon/edition-jekyll-template
 image_path: /images/clients/edition.png
+published: false
 ---
 
 Product documentation template for Jekyll. Browse through a [live demo](https://long-pig.cloudvent.net/).
