@@ -8,7 +8,6 @@ image_path: /images/clients/hackcancer.webp
 - Fix heading doesn't work
 - Improve the content written below
 - Grab images and content from https://twitter.com/hack_cancer
-- https://medium.com/hackcancer-hackathon/a-hackathon-that-changed-the-world-c4a25ea61238
 
 I was part of what I think is one of the most exciting hackathons around. Hack Cancer, a 24 hour hackathon with the aim of bringing engineers, designers, doctors and cancer patients together, to build world changing products that could aid with the diagnosis and treatment of cancer.
 
