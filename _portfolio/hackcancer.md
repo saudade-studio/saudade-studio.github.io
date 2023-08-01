@@ -4,7 +4,6 @@ subtitle: A two-day hackathon for building tolls and raising funds to fight canc
 image_path: /images/clients/hackcancer.webp
 ---
 
-- Fix heading doesn't work
 - Improve the content written below
 - Grab images and content from https://twitter.com/hack_cancer
 - Add images to page
