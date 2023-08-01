@@ -2,7 +2,6 @@
 name: Hackcancer
 subtitle: A two-dat hackathon for building tolls and raising funds to fight cancer
 image_path: /images/clients/hackcancer.jpg
-published: false
 ---
 
 - Grab images and content from https://twitter.com/hack_cancer
