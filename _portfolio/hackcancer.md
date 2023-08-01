@@ -1,6 +1,5 @@
 ---
 name: Hackcancer
-heading: Hackcancer
 subtitle: A two-day hackathon for building tolls and raising funds to fight cancer
 image_path: /images/clients/hackcancer.webp
 ---

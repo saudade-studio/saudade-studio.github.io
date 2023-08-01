@@ -5,9 +5,7 @@ layout: default
 
 <section class="hero diagonal">
 	<div class="container">
-		{% if portfolio.heading %}
-		<h2><a href="{{ site.baseurl }}/portfolio/">{{ portfolio.heading }}</a> / {{ page.title | capitalize }}</h2>
-		{% endif %}
+		<h2>{{ page.name }}</h2>
 		{% if page.subtitle %}
 			<p class="subtext">{{ page.subtitle }}</p>
 		{% endif %}
