@@ -27,7 +27,7 @@ Our winner of the Blue Peter award for most creative use of materials, was Bango
 
 In second place we had Care and Share for their app for sending care packages to people suffering from cancer. Friends and (optionally) general members of the public could buy items from an online store which would be sent to them. The app was also used to track their appointments and medication. In addition to this they could share updates in a safe environment with only the people they want to know about it.
 
-![The Care and Share team present their project](/images/hackcancer/4.webp){:. centered}
+![The Care and Share team present their project](/images/hackcancer/4.webp){:.centered}
 
 Finally in first place we had Cancer Journal, similar to Care and Share it allowed you to track your appointments and share updates. But it had the addition of allowing patients to upload medical records and files, the patient would then choose which would be shared with viewers of their journal.
 
