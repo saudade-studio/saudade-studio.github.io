@@ -4,11 +4,11 @@ subtitle: A two-day hackathon for building solutions and raising funds to fight 
 image_path: /images/clients/hackcancer.webp
 ---
 
-Note: Add images to page
-
 In 2015, Saudade Studio helped organise a 24-hour hackathon at the Google Campus based in Shoreditch, London.
 
 Over 40 hackers in total arrived; These hackers organised themselves into 10 teams consiting of engineers, designers, doctors and former cancer patients with the aim of building prototype products that could aid with the diagnosis and treatment of cancer. 
+
+![Hackers help themselves to some pizza](/images/hackcancer/1.webp)
 
 Helping those effected by Cancer was at the core of the event, so we kicked off the event with two inspirational talks from former-cancer patients; Andrew Raynes and Harry Lehane. Both of them were around to take any questions from hackers, throughout the event, as well as Hunain Shiwani our resident doctor.
 
@@ -23,8 +23,16 @@ Harry Lehane and Hunain Shiwani also joined our judges panel, so overall we had 
 
 Our winner of the Blue Peter award for most creative use of materials, was Bangour Uni for their automated pill dispenser, ‘Dosette’. They won this award through their ingenious use of paper plates, plastic cups and a box of tea. Which, in combination with a adrunio board, was able to scan your medication and have it dispensed for you each morning.
 
+![Dosette present their project](/images/hackcancer/2.webp)
+
 In second place we had Care and Share for their app for sending care packages to people suffering from cancer. Friends and (optionally) general members of the public could buy items from an online store which would be sent to them. The app was also used to track their appointments and medication. In addition to this they could share updates in a safe environment with only the people they want to know about it.
+
+![The Care and Share team present their project](/images/hackcancer/3.webp)
 
 Finally in first place we had Cancer Journal, similar to Care and Share it allowed you to track your appointments and share updates. But it had the addition of allowing patients to upload medical records and files, the patient would then choose which would be shared with viewers of their journal.
 
+![The Cancer Journal team](/images/hackcancer/3.webp)
+
 The event ended as a great success, raising over £10,000 for Cance Research and was eventually span-off into an event in Bacelona, Spain.
+
+![The Hack cancer spain team](/images/hackcancer/5.webp)
