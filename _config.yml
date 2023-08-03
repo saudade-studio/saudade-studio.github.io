@@ -24,7 +24,7 @@ timezone: Etc/UTC
 collections:
   portfolio:
     output: true
-    order: date DESC, slug
+    sort_by: date
 
 permalink: pretty
 
