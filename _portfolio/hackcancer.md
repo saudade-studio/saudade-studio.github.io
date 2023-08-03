@@ -2,6 +2,7 @@
 name: Hackcancer
 subtitle: A two-day hackathon for building solutions and raising funds to fight cancer
 image_path: /images/clients/hackcancer.webp
+date: 2015-08-01
 ---
 
 In 2015, Saudade Studio helped organise a 24-hour hackathon at the Google Campus based in Shoreditch, London.
