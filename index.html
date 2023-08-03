@@ -16,7 +16,7 @@ title: Home
 <section>
 	<div class="container">
 		<ul class="image-grid">
-			{% for item in site.portfolio | reverse %}
+			{% for item in site.portfolio | sort: "date", "last" %}
 				<li>
 					<a href="{{ site.baseurl }}{{ item.url }}">
 						<img src="{% include relative-src.html src=item.image_path %}" alt="{{ person.name }}">
