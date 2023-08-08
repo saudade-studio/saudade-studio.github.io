@@ -20,7 +20,7 @@ Having validated their idea they needed to scale to the general public but were 
 span from regular failure of the SD card contained within the Raspberry Pis to student's helping themselves to the
 power cables to charge their phones.
 
-![An example of a broken printt station](/images/printt/2.jpg:img){:.centered width="250"}
+![An example of a broken printt station](/images/printt/2.jpg){:.centered width="250"}
 
 We worked with Printt to access a series of industry grade IOT hardware platforms which could meet their
 requirements whilst reducing the unit costs accosiated with each device. Using a custom built OpenWRT based
