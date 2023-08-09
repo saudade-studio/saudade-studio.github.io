@@ -12,12 +12,14 @@ need to print out of nesssuty and sometimes even purchasing their own equipment 
 Founded with a mission to create a simple and more sustainable way to print. Printt had already built a small 
 network of public printers across 50 student accomodation locations across the UK. 
 
-![A out-of-home campaign ran for the launch of the final printt app](/images/printt/8.jpg){:.centered}
+Their existing system was a rudimentary affair powered by Raspberry Pis, bluetooth beaconds and a business 
+printers. They had comvined this with a business model which utilised strateigic partners to re-fill the toner and
+encouraged locations to provide paper to discourage waste. 
 
-Using a rudimentary system
-powered by Raspberry Pis, bluetooth beaconds and a business printers. Combinign this with  a smart business model 
-which utilised strateigic partners to re-fill the toner and encouraged locations to provide paper to discourage
-waste..
+To encourage students to give up buying and eventualy throwing away their home printer they offerred a small amount of free printing supported by adverts which had the beenfit for advertisers cutting down on the large
+amounts of printed advertising they would typically hand out at campus.
+
+![A out-of-home campaign ran for the launch of the final printt app](/images/printt/8.jpg){:.centered}
 
 ## Refreshing the hardware
 
