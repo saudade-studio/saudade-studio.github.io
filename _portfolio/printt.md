@@ -57,6 +57,3 @@ in partnership with Rymans.com and a delivery service complete with end-to-end t
 ![The mock up of the app across all of the supported devices](/images/printt/7.jpg){:.centered width="500"}
 
 ![A out-of-home campaign ran for the launch of the final printt app](/images/printt/8.jpg){:.centered}
-
-TODO:
-- Fix banner having purple bits
