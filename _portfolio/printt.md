@@ -10,7 +10,9 @@ Despite the fact over 300 million ink cartridges end up in the landfill each yea
 need to print out of nesssuty and sometimes even purchasing their own equipment at home in the process.
 
 Founded with a mission to create a simple and more sustainable way to print. Printt had already built a small 
-network of public printers across 50 student accomodation locations across the UK. Using a rudimentary system
+network of public printers across 50 student accomodation locations across the UK. 
+
+Using a rudimentary system
 powered by Raspberry Pis, bluetooth beaconds and a business printers. Combinign this with  a smart business model 
 which utilised strateigic partners to re-fill the toner and encouraged locations to provide paper to discourage
 waste..
@@ -41,7 +43,7 @@ locations.
 
 ## Expanding the service
 
-![The old app whilst printing a document](/images/printt/5.jpg){:.centered width="500"}
+![The old app whilst printing a document](/images/printt/5.jpg){:.centered width="250"}
 
 Parralel to the work on the new printing hardware, the mobile application went through a makeover including
 rebranding, additional services and new UX userflow based on UX research carried out. 
