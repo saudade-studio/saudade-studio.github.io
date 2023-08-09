@@ -34,7 +34,7 @@ requirements whilst reducing the unit costs accosiated with each device. Using a
 operating sytem and an off the shelf router we were able to not only remove major sources of failure (The
 aforementoned SD card and power cable being two of them) reducing a major source of waste. But reduce the unit cost by over 80%, allowing Printt to expand to over 250 locations.
 
-![The more durable router based system](/images/printt/3.jpg){:.centered}
+![The more durable router based system](/images/printt/3.jpg){:.centered  width="250"}
 
 For the second phase of expansion, a new wave of smart-printers had hit the market. We were uccessfully able to
 port all of our code from our IOT devices to a javascript preact application using a SDK from the printer. Fully
@@ -49,7 +49,6 @@ locations.
 
 Parralel to the work on the new printing hardware, the mobile application went through a makeover including
 rebranding, additional services and new UX userflow based on UX research carried out. 
-
 
 ![The new Printt appt](/images/printt/6.png){:.centered width="500"}
 
