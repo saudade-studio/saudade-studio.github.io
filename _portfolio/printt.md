@@ -31,7 +31,7 @@ power cables to charge their phones.
 
 ![An example of a broken printt station](/images/printt/2.jpg){:.centered width="800"}
 
-We worked with Printt to access a series of industry grade IOT hardware platforms which could meet their
+We worked with Printt to assess a series of industry grade IOT hardware platforms which could meet their
 requirements whilst reducing the unit costs accosiated with each device. Using a custom built OpenWRT based
 operating sytem and an off the shelf router we were able to not only remove major sources of failure (The
 aforementoned SD card and power cable being two of them) reducing a major source of waste. But reduce the unit cost by over 80%, allowing Printt to expand to over 250 locations.
