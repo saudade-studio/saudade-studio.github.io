@@ -21,14 +21,14 @@ Having validated their idea they needed to scale to the general public but were 
 span from regular failure of the SD card contained within the Raspberry Pis to student's helping themselves to the
 power cables to charge their phones.
 
-![An example of a broken printt station](/images/printt/2.jpg){:.centered width="250"}
+![An example of a broken printt station](/images/printt/2.jpg){:.centered width="800"}
 
 We worked with Printt to access a series of industry grade IOT hardware platforms which could meet their
 requirements whilst reducing the unit costs accosiated with each device. Using a custom built OpenWRT based
 operating sytem and an off the shelf router we were able to not only remove major sources of failure (The
 aforementoned SD card and power cable being two of them) reducing a major source of waste. But reduce the unit cost by over 80%.
 
-
+![The more durable router based system](/images/printt/3.jpg){:.centered width="250"}
 
 TODO:
 - Fix banner
