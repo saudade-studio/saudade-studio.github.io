@@ -38,7 +38,7 @@ eliminating any hardware leaving just the printer, with this the total network e
 
 ![A printtstation](/images/printt/4.jpeg){:.centered}
 
-## The Mobile App
+## Expadning the service
 
 
 
