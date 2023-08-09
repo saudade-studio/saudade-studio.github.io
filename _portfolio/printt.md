@@ -36,7 +36,7 @@ For the second phase of expansion, a new wave of smart-printers had hit the mark
 port all of our code from our IOT devices to a javascript preact application using a SDK from the printer. Fully
 eliminating any hardware leaving just the printer, with this the total network expanded up to 500 printers.
 
-![A printtstation](/images/printt/4.jpeg){:.centered}
+![A printtstation](/images/printt/4.jpeg){:.centered width="500"}
 
 ## Expadning the service
 
