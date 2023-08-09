@@ -11,8 +11,9 @@ need to print out of nesssuty and sometimes even purchasing their own equipment 
 
 Founded with a mission to create a simple and more sustainable way to print. Printt had already built a small 
 network of public printers across 50 student accomodation locations across the UK. Using a rudimentary system
-powered by Raspberry Pis and business printers manufactured by sharp alongside a smart business model which
-utilised strateigic partners to re-fill the toner and encouraged locations to provide paper to discourage waste..
+powered by Raspberry Pis, bluetooth beaconds and a business printers. Combinign this with  a smart business model 
+which utilised strateigic partners to re-fill the toner and encouraged locations to provide paper to discourage
+waste..
 
 ![A student next to a prototype print station](/images/printt/1.jpeg){:.centered}
 
