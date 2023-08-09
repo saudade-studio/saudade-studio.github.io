@@ -55,12 +55,9 @@ Alongside this refreshed
 mobile app were able to introduce a new web application for ordering from your laptop, new click & collect services
 in partnership with Rymans.com and a delivery service complete with end-to-end tracking.
 
-![The old AIWIP app whilst printing a document](/images/printt/5.jpg){:.centered width="500"}
+![The mock up of the app across all of the supported devices](/images/printt/7.jpg){:.centered width="500"}
 
-
+![A out-of-home campaign ran for the launch of the final printt app](/images/printt/8.jpg){:.centered}
 
 TODO:
 - Fix banner having purple bits
-- Put together content for mobile app
-- Add images here
-- Blog Posts about the tech details around Raspberry Pi -> Open WRT
