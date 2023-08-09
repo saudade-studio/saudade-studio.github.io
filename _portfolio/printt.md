@@ -28,7 +28,9 @@ requirements whilst reducing the unit costs accosiated with each device. Using a
 operating sytem and an off the shelf router we were able to not only remove major sources of failure (The
 aforementoned SD card and power cable being two of them) reducing a major source of waste. But reduce the unit cost by over 80%.
 
-![The more durable router based system](/images/printt/3.jpg){:.centered width="250"}
+![The more durable router based system](/images/printt/3.jpg){:.centered}
+
+
 
 TODO:
 - Fix banner
