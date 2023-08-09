@@ -1,7 +1,7 @@
 ---
 name: Hazaar
 subtitle: A simple and more sustinable printing-as-a-service
-image_path: /images/clients/printt.png
+image_path: /images/clients/hazaar.png
 published: true
 date: 2021-09-01
 ---
