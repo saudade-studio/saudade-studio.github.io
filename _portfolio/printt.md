@@ -12,6 +12,8 @@ need to print out of nesssuty and sometimes even purchasing their own equipment 
 Founded with a mission to create a simple and more sustainable way to print. Printt had already built a small 
 network of public printers across 50 student accomodation locations across the UK. 
 
+![A out-of-home campaign ran for the launch of the final printt app](/images/printt/8.jpg){:.centered}
+
 Using a rudimentary system
 powered by Raspberry Pis, bluetooth beaconds and a business printers. Combinign this with  a smart business model 
 which utilised strateigic partners to re-fill the toner and encouraged locations to provide paper to discourage
@@ -55,5 +57,3 @@ Alongside this refreshed mobile app we were able to introduce a new web applicat
 in partnership with Rymans.com and a delivery service complete with end-to-end tracking.
 
 ![The mock up of the app across all of the supported devices](/images/printt/7.png){:.centered width="500"}
-
-![A out-of-home campaign ran for the launch of the final printt app](/images/printt/8.jpg){:.centered}
