@@ -34,7 +34,8 @@ aforementoned SD card and power cable being two of them) reducing a major source
 
 For the second phase of expansion, a new wave of smart-printers had hit the market. We were uccessfully able to
 port all of our code from our IOT devices to a javascript preact application using a SDK from the printer. Fully
-eliminating any hardware leaving just the printer, with this the total network expanded up to 500 printers.
+eliminating any hardware leaving just the printer, finally allowing the network to expanded to a total of 500 
+locations.
 
 ![A printtstation](/images/printt/4.jpeg){:.centered width="500"}
 
