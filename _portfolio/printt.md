@@ -15,9 +15,9 @@ powered by Raspberry Pis, bluetooth beaconds and a business printers. Combinign 
 which utilised strateigic partners to re-fill the toner and encouraged locations to provide paper to discourage
 waste..
 
-![A student next to a prototype print station](/images/printt/1.jpeg){:.centered}
-
 ## Refreshing the hardware
+
+![A student next to a prototype print station](/images/printt/1.jpeg){:.centered}
 
 Having validated their idea they needed to scale to the general public but were facing reliability issues which
 span from regular failure of the SD card contained within the Raspberry Pis to student's helping themselves to the
