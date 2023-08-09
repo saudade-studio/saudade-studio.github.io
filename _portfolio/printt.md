@@ -17,6 +17,8 @@ waste..
 
 ![A student next to a prototype print station](/images/printt/1.jpeg){:.centered}
 
+## Refreshing the hardware
+
 Having validated their idea they needed to scale to the general public but were facing reliability issues which
 span from regular failure of the SD card contained within the Raspberry Pis to student's helping themselves to the
 power cables to charge their phones.
@@ -26,10 +28,17 @@ power cables to charge their phones.
 We worked with Printt to access a series of industry grade IOT hardware platforms which could meet their
 requirements whilst reducing the unit costs accosiated with each device. Using a custom built OpenWRT based
 operating sytem and an off the shelf router we were able to not only remove major sources of failure (The
-aforementoned SD card and power cable being two of them) reducing a major source of waste. But reduce the unit cost by over 80%.
+aforementoned SD card and power cable being two of them) reducing a major source of waste. But reduce the unit cost by over 80%, allowing Printt to expand to over 250 locations.
 
 ![The more durable router based system](/images/printt/3.jpg){:.centered}
 
+For the second phase of expansion, a new wave of smart-printers had hit the market. We were uccessfully able to
+port all of our code from our IOT devices to a javascript preact application using a SDK from the printer.
+
+
+
+With these issue solved we were able to expand their network to over 250 locations across the U.K. For the
+second phase of expansion we utilised developments in printer technology to migrate all 
 
 
 TODO:
