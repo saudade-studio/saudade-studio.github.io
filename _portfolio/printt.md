@@ -54,7 +54,8 @@ rebranding, additional services and new UX userflow based on UX research carried
 
 ![The new Printt appt](/images/printt/6.png){:.centered width="500"}
 
-Alongside this refreshed mobile app we were able to introduce a new web application for ordering from your laptop, new click & collect services
-in partnership with Rymans.com and a delivery service complete with end-to-end tracking.
+Alongside this refreshed mobile app we were able to introduce a new web application for ordering from your laptop,
+new click & collect services in partnership with Rymans.com and a delivery service complete with end-to-end
+delivery tracking.
 
 ![The mock up of the app across all of the supported devices](/images/printt/7.png){:.centered width="800"}
