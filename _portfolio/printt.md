@@ -33,17 +33,17 @@ aforementoned SD card and power cable being two of them) reducing a major source
 ![The more durable router based system](/images/printt/3.jpg){:.centered}
 
 For the second phase of expansion, a new wave of smart-printers had hit the market. We were uccessfully able to
-port all of our code from our IOT devices to a javascript preact application using a SDK from the printer.
+port all of our code from our IOT devices to a javascript preact application using a SDK from the printer. Fully
+eliminating any hardware leaving just the printer, with this the total network expanded up to 500 printers.
 
+![A printtstation](/images/printt/4.jpeg){:.centered}
 
+## The Mobile App
 
-With these issue solved we were able to expand their network to over 250 locations across the U.K. For the
-second phase of expansion we utilised developments in printer technology to migrate all 
 
 
 TODO:
-- Fix banner
-- Fix maximum size
-- Put together content
+- Fix banner having purple bits
+- Put together content for mobile app
 - Add images here
 - Blog Posts about the tech details around Raspberry Pi -> Open WRT
