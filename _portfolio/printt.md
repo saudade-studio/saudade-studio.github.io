@@ -41,6 +41,20 @@ locations.
 
 ## Expanding the service
 
+![The old app whilst printing a document](/images/printt/5.jpg){:.centered width="500"}
+
+Parralel to the work on the new printing hardware, the mobile application went through a makeover including
+rebranding, additional services and new UX userflow based on UX research carried out. 
+
+
+![The new Printt appt](/images/printt/6.png){:.centered width="500"}
+
+Alongside this refreshed
+mobile app were able to introduce a new web application for ordering from your laptop, new click & collect services
+in partnership with Rymans.com and a delivery service complete with end-to-end tracking.
+
+![The old AIWIP app whilst printing a document](/images/printt/5.jpg){:.centered width="500"}
+
 
 
 TODO:
