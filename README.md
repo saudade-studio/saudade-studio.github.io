@@ -9,3 +9,4 @@ Roadmap:
 - [] review copy
 - [] sustainonomy
 - [] favicon
+- [] portfolio in one line
