@@ -66,6 +66,7 @@ section {
 	&.hero {
 		background: darken($color: $brand-color, $amount: 30);
 		background-image: url(/images/hero.png);
+		background-size: 50%;
 		text-align: left;
 		margin-top: -100px;
 		padding-top: 250px;
