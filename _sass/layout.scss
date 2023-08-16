@@ -66,12 +66,13 @@ section {
 	&.hero {
 		color: #ffffff;
 		background: darken($color: $brand-color, $amount: 30);
-		background-image: url(images/hero.png);
+		background-image: url(/images/hero.png);
 		text-align: left;
 		margin-top: -100px;
 		padding-top: 250px;
 
 		h2, p {
+			background-color: #fff;
 			max-width: 90%;
 		}
 
