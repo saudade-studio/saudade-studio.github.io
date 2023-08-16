@@ -6,3 +6,4 @@ Roadmap:
 - [] Find a better hero image
 - [] Add team section
 - [] get feedback
+- [] review copy
