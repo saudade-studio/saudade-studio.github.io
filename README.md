@@ -8,3 +8,4 @@ Roadmap:
 - [] get feedback
 - [] review copy
 - [] sustainonomy
+- [] favicon
