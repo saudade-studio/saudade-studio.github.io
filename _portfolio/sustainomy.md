@@ -23,8 +23,6 @@ Tech, Politico for Politics or Sifted for Business
 
 Behind every story we believe there is an interesting web of information we can use
 to inform this fight for the future of planet earth. After all you can't fix what you don't
-understand.  
-
-And you fear what you don't understand. 
+understand and this ultimetley leads to fear.
 
 Climate change is scary. But despite this fact it doesn't mean we have to be scared.
