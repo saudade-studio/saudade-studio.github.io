@@ -63,34 +63,6 @@ section {
 		}
 	}
 
-	&.hero {
-		text-align: left;
-		margin-top: -100px;
-		padding-top: 250px;
-
-		h1, h2, p {
-			background-color: #fff;
-			max-width: 90%;
-		}
-
-		h1 {
-			font-size: 5rem;
-		}
-
-		h2 {
-			font-size: 3.5rem;
-		}
-
-		p {
-			font-size: 1.8rem;
-		}
-
-		a:not(.button) {
-			color: #ffffff;
-			font-style: italic;
-		}
-	}
-
 	&.alternate {
 		background: #eee;
 	}
