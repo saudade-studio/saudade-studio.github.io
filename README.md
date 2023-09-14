@@ -2,6 +2,7 @@
 
 Roadmap:
 
+- [] Blog area
 - [] Re-work hero introduction
 - [] Find a better hero image
 - [] Add team section
