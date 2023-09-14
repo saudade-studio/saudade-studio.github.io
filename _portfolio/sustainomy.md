@@ -1,7 +1,7 @@
 ---
 name: Sustainonomy
 subtitle: A new media organization centered around providing detailed but clear analysis on the challeneges and solutions for climate change 
-image_path: 
+image_path: /images/clients/sustainonomy.png
 published: true
 date: 2023-09-01
 ---
