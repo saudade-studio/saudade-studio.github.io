@@ -1,0 +1,30 @@
+---
+title: Blogs
+layout: default
+---
+
+<a href="/">Home</a>
+
+<section>
+	<div class="container">
+		<img alt="Saudade Studio" src="/images/logo.png"/>
+		<h2>Born in London, Built in Lisbon.</h2>
+	</div>
+</section>
+
+<section>
+	<div class="container">
+		<h2>Blogs</h2>
+		<ul>
+			{% for item in site.blog reversed %}
+				<li>
+					<a href="{{ site.baseurl }}{{ item.url }}">
+						{{ item.name }}
+					</a> - {{ item.subtitle }}
+				</li>
+			{% endfor %}
+			<li class="filler"></li>
+			<li class="filler"></li>
+		</ul>
+	</div>
+</section>

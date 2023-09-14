@@ -22,6 +22,9 @@ social:
 timezone: Etc/UTC
 
 collections:
+  blog:
+      output: true
+      sort_by: date
   portfolio:
     output: true
     sort_by: date
