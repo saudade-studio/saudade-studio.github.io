@@ -18,7 +18,7 @@ sustainable packaging ? How honest was that climate neutrality pleged on that ne
 smartphone ? and what are the concrete actions I can demand from my policymakers that 
 aren't just a variation of a three word slogan? 
 
-The sort of question you would come to expect from publications such as The Reigster for
+The sort of question you would come to expect from publications such as The Register for
 Tech, Politico for Politics or Sifted for Business
 
 Behind every story we believe there is an interesting web of information we can use
